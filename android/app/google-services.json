@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "484980462666",
+    "firebase_url": "https://lock-system-garden-default-rtdb.firebaseio.com",
+    "project_id": "lock-system-garden",
+    "storage_bucket": "lock-system-garden.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484980462666:android:ee0f427b8a5d96155942b3",
+        "android_client_info": {
+          "package_name": "com.example.lock_system_garden"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDR-5qyOPVHNevLTopZXc4kS7GLWnThNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
